@@ -1,3 +1,5 @@
-#Aprendendo GIT
+# Aprendendo GIT
 
-#É bem complexo
+# É bem complexo
+
+# Temos diversas idéias com esse curso
