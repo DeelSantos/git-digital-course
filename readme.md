@@ -5,3 +5,4 @@
 # Temos diversas idéias com esse curso
 
 ## To gostando de aprender Git com a Ada 
+* comando git push
